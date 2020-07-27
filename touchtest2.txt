@@ -1,0 +1,13 @@
+ Datentr„ger in Laufwerk C: ist OSDisk
+ Volumeseriennummer: 264E-5BF8
+
+ Verzeichnis von C:\Users\DimitrDu\Desktop\MyProject
+
+27.07.2020  11:38    <DIR>          .
+27.07.2020  11:38    <DIR>          ..
+27.07.2020  11:35    <DIR>          .git
+27.07.2020  09:23                22 index.html
+27.07.2020  09:23                 8 test1.txt
+27.07.2020  11:38                 0 touchtest2.txt
+               3 Datei(en),             30 Bytes
+               3 Verzeichnis(se), 219.922.059.264 Bytes frei
